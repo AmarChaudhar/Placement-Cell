@@ -1,16 +1,53 @@
-# placement
+# Placement Cell App
 
-A new Flutter project.
+ Introduction
+The Placement Cell App is a comprehensive tool designed to streamline and enhance the placement process for both students and employers. This README provides a detailed overview of the app's features, including the Student and Administrator modules, along with installation instructions and usage guidelines.
 
-## Getting Started
+## Administrator Module Features
+- **Event Management:**
+  - Add and insert events seamlessly.
 
-This project is a starting point for a Flutter application.
+- **Material Upload and Update:**
+  - Upload and update study materials for students.
 
-A few resources to get you started if this is your first Flutter project:
+- **Vacancy Information:**
+  - Provide detailed information about available job vacancies.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Feedback Response:**
+  - Respond to user questions and feedback efficiently.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Administrator Module](https://github.com/AmarChaudhar/Placement-Cell/assets/100433741/de246b80-4680-412d-b540-0b6dfc0a4d2e)
+
+## Student Module Features
+- **Announcements:**
+  - View available jobs and announcements made by the admin.
+
+- **Study Corner:**
+  - Access and study materials uploaded by the admin.
+
+- **Vacancies and Opportunities:**
+  - Explore and apply for jobs through a user-friendly interface.
+
+![Student Module](https://github.com/AmarChaudhar/Placement-Cell/assets/100433741/deb732cb-9296-4c43-a585-7286e9289217)
+
+## Installation
+1. Clone the repository: `git clone https://github.com/AmarChaudhar/Placement-Cell.git`
+2. Navigate to the project directory: `cd Placement-Cell`
+3. Install dependencies: `npm install`
+4. Start the app: `npm start`
+
+## Usage
+1. **Administrator Module:**
+   - Utilize the features mentioned above for effective management.
+
+2. **Student Module:**
+   - Engage with announcements, study materials, and job opportunities.
+
+## Contributing
+If you're interested in contributing to the Placement Cell App, please follow our [contribution guidelines](CONTRIBUTING.md).
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any inquiries or support, please contact the Placement Cell at [contact@placementcell.com].
